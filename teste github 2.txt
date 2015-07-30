@@ -1,0 +1,1 @@
+Inclui um novo arquivo no clone 2.
